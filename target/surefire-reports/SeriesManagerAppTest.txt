@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: SeriesManagerAppTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.137 s <<< FAILURE! -- in SeriesManagerAppTest
+SeriesManagerAppTest.TestUpdateSeries -- Time elapsed: 0.010 s <<< ERROR!
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at SeriesManagerApp.getValidAgeRestriction(SeriesManagerApp.java:107)
+	at SeriesManagerApp.updateSeries(SeriesManagerApp.java:153)
+	at SeriesManagerAppTest.TestUpdateSeries(SeriesManagerAppTest.java:74)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
