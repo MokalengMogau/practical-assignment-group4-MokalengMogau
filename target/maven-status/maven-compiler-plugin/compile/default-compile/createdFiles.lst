@@ -1,6 +1,3 @@
-TeamManager\TeamMember.class
-TVSeries.class
-Series.class
-SeriesManagerApp.class
-TeamManager\F1Manager.class
-TeamManager\F1Driver.class
+com\mycompany\salesreportapp\SalesReportApp.class
+com\mycompany\salesreportapp\IProduct.class
+com\mycompany\salesreportapp\ProductSales.class

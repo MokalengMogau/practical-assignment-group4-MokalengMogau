@@ -1,0 +1,8 @@
+Microphone: Year 1 = 300, Year 2 = 250
+Speakers: Year 1 = 150, Year 2 = 200
+Mixing Desk: Year 1 = 700, Year 2 = 600
+
+Total Sales: 2200
+Average Sales: 366.67
+Sales Over Limit: 2
+Sales Under Limit: 4
